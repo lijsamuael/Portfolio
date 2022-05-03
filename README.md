@@ -1,1 +1,1 @@
-This is a portfolio that tells something about me. It is not a finalized form of protfolio but it is somehow done for praticing. i will soon publish my finilize portfolio but till then this publish will tell you enough things about me.
+This is a portfolio that tells something about me. It is not a finalized form of protfolio but it is somehow done for practicing. i will soon publish my finilize portfolio but till then this publish will tell you enough things about me.
