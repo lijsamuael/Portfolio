@@ -1,0 +1,30 @@
+body {
+    background-color: lightblue;
+    width: 100%;
+}
+
+table {
+    background-color: antiquewhite;
+    width: 768px;
+    height: 300px;
+    margin: 100px;
+    border-radius: 15px;
+    border: 2px solid red;
+}
+
+tr:nth-last-child(0) {
+    border-top: 2px solid red;
+}
+
+th {
+    border-bottom: 2px solid red;
+    border-right: 2px solid red;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+td {
+    text-align: center;
+    border-bottom: 2px solid red;
+    border-right: 2px solid red;
+}
